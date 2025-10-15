@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "CaCYOPifQhWYo/cRsPBgT74op1b49/wRi0u9MRQYGuU=",
+  "Source": "BikeRental.Api",
+  "BasePath": "_content/BikeRental.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
