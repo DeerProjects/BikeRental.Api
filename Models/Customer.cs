@@ -10,7 +10,11 @@ namespace Models
 
         public string Email { get; set; } = null!;
 
-        public string? Number { get; set; }
+        public string? Phone { get; set; }
+
+        public DateTimeOffset CreatedAt { get; set; }
+
+        public ICollection<Rental> Rentals { get; set; } = new List<Rental>();
 
     }
 }
