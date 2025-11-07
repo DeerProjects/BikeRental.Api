@@ -18,7 +18,9 @@ namespace Models
         
         [MaxLength(50)]
         public string? SerialNumber { get; set; }
-        
+
         public DateTimeOffset CreatedAt { get; set; } = DateTimeOffset.UtcNow;
+        
+        public ICollection<Rental> Rentals { get; set; } = new List<Rental>();
   }
 }

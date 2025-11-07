@@ -19,12 +19,6 @@ C:\Users\emree\BikeRental.Api\obj\Debug\net9.0\scopedcss\bundle\BikeRental.Api.s
 C:\Users\emree\BikeRental.Api\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\emree\BikeRental.Api\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\emree\BikeRental.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\emree\BikeRental.Api\obj\Debug\net9.0\staticwebassets\msbuild.BikeRental.Api.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\emree\BikeRental.Api\obj\Debug\net9.0\staticwebassets\msbuild.BikeRental.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\emree\BikeRental.Api\obj\Debug\net9.0\staticwebassets\msbuild.build.BikeRental.Api.props
-C:\Users\emree\BikeRental.Api\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.BikeRental.Api.props
-C:\Users\emree\BikeRental.Api\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.BikeRental.Api.props
-C:\Users\emree\BikeRental.Api\obj\Debug\net9.0\staticwebassets.pack.json
 C:\Users\emree\BikeRental.Api\obj\Debug\net9.0\BikeRent.D4B58BEE.Up2Date
 C:\Users\emree\BikeRental.Api\obj\Debug\net9.0\BikeRental.Api.dll
 C:\Users\emree\BikeRental.Api\obj\Debug\net9.0\refint\BikeRental.Api.dll
@@ -72,7 +66,6 @@ C:\Users\emree\BikeRental.Api\bin\Debug\net9.0\System.Composition.Convention.dll
 C:\Users\emree\BikeRental.Api\bin\Debug\net9.0\System.Composition.Hosting.dll
 C:\Users\emree\BikeRental.Api\bin\Debug\net9.0\System.Composition.Runtime.dll
 C:\Users\emree\BikeRental.Api\bin\Debug\net9.0\System.Composition.TypedParts.dll
-C:\Users\emree\BikeRental.Api\bin\Debug\net9.0\System.Text.Json.dll
 C:\Users\emree\BikeRental.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\emree\BikeRental.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\emree\BikeRental.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -160,3 +153,10 @@ C:\Users\emree\BikeRental.Api\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlit
 C:\Users\emree\BikeRental.Api\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\emree\BikeRental.Api\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\emree\BikeRental.Api\obj\Debug\net9.0\BikeRental.Api.sourcelink.json
+C:\Users\emree\BikeRental.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\emree\BikeRental.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\emree\BikeRental.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\emree\BikeRental.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\emree\BikeRental.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\emree\BikeRental.Api\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\emree\BikeRental.Api\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
